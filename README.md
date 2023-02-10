@@ -7,6 +7,14 @@ I DON'T take any responsibility of the people who intend to harm/spam/abuse ubic
 # Installation
 `pip install jawadpy-ubiconnect`
 
+# Why to use my project?
+My project fixes alot and alot of ubisoft bugs,
+- You don't have to install updates anymore.
+- remember me button not buggy anymore.
+- Prevent Google from collecting your data.
+- Increased performance.
+- An open source project, meaning I can add any feature that users require.
+- and more!
 
 # Usage
 This is really simple and easy to use as it's shown below,
